@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-india&label=Profile%20views&color=0e75b6&style=flat" alt="subham-india" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham-india" alt="subham-india" /></a> </p>
+
 
 - 📫 How to reach me **chakrabortysubham350@gmail.com**
 
